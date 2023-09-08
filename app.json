@@ -1,6 +1,6 @@
 {
-    "name": "سورس عين",
-    "description": "‹ بوت صيد يوزرات سريع مميز على سورس عين ›",
+    "name": "سورس فايروس ",
+    "description": "‹ بوت صيد يوزرات سريع مميز على سورس فايروس ›",
     "keywords": [
         "telegram",
         "bot",
@@ -12,8 +12,8 @@
         "generator"
     ],
         "repository": "https://github.com/jgk99gto/louiahmed",
-    "website": "https://t.me/ZZZ7iZ",
-    "success_url": "https://t.me/ZZZ7iZ",
+    "website": "https://t.me/VV_RSI",
+    "success_url": "https://t.me/VV_RSI",
     "env": {
         "BOT_TOKEN": {
             "description": "ضع التوكن الخاص بك https://t.me/BotFather"
